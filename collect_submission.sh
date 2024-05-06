@@ -1,0 +1,2 @@
+rm -f 23125068_W010+11.zip
+zip -r 23125068_W10+11.zip *.py *.json ./GeoJsonOutput *.sh ./DijkstrasOutput/importances.json /data /ClassDiagramAndReport ./Esopo/Importances.json ./BFSOutput ./GPT_Gorrilla/*.py *.txt
